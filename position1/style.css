@@ -1,0 +1,19 @@
+.blue-box{
+background-color: blue;
+width: 500px;
+height: 300px;
+position: relative;
+top:200px;
+left: 200px;
+}
+.img{
+ border-radius: 50%;
+}
+.txt{
+    color:black;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    font-size: larger;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
